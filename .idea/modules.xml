@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.example.android.bluetoothchat.iml" filepath="$PROJECT_DIR$/.idea/modules/com.example.android.bluetoothchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/com.example.android.bluetoothchat.Application.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/com.example.android.bluetoothchat.Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/com.example.android.bluetoothchat.Application.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/com.example.android.bluetoothchat.Application.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/com.example.android.bluetoothchat.Application.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/com.example.android.bluetoothchat.Application.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Application/com.example.android.bluetoothchat.Application.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Application/com.example.android.bluetoothchat.Application.unitTest.iml" />
+    </modules>
+  </component>
+</project>
