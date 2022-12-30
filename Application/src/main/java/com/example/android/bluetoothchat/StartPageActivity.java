@@ -32,7 +32,7 @@ public class StartPageActivity extends Activity {
                 Intent intent = new Intent();
                 if (isChecked) {
                     //设置跳转到管理员页(待改)
-//                    intent.setClass(StartPageActivity.this, Sup.class);
+                    //intent.setClass(StartPageActivity.this, Sup.class);
                 } else {
                     //设置跳转到学生页(待改)
                     intent.setClass(StartPageActivity.this, MainActivity.class);
