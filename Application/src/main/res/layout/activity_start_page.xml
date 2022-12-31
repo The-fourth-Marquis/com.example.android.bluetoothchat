@@ -11,7 +11,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="55dp"
-        android:text="我是管理员"
+        android:buttonTint="#6873B1"
+        android:text="I'm supervisor"
+        android:textColor="#4A5173"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/enter" />
@@ -20,39 +22,32 @@
         android:id="@+id/enter"
         android:layout_width="180dp"
         android:layout_height="90dp"
-        android:text="进入程序"
-        android:textSize="20sp"
+        android:background="#32408E"
+        android:text="ENTER"
+        android:textColor="#F1F5FD"
+        android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.634" />
+        app:layout_constraintVertical_bias="0.661" />
 
     <TextView
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="签到助手"
+        android:text="BLUETOOTH\nREGISTER"
         android:textAlignment="center"
-        android:textColor="#1A1143"
+        android:textColor="#28196E"
         android:textSize="48sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/enter"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.575"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="——基于蓝牙通讯开发"
-        android:textAlignment="center"
-        android:textColor="#53509F"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView3" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.528" />
 
     <TextView
         android:id="@+id/textView5"
@@ -60,6 +55,7 @@
         android:layout_height="wrap_content"
         android:text="开发人员名单：王侯、谈世翔、叶昊林、陆俊安"
         android:textAlignment="center"
+        android:textColor="#743F51B5"
         android:textSize="8sp"
         app:layout_constraintBottom_toTopOf="@+id/textView6"
         app:layout_constraintEnd_toEndOf="parent"
@@ -71,6 +67,7 @@
         android:layout_height="wrap_content"
         android:text="指导老师：张晶"
         android:textAlignment="center"
+        android:textColor="#743F51B5"
         android:textSize="8sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

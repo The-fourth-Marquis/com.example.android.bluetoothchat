@@ -64,7 +64,8 @@ public class StartPageActivity extends Activity {
 
             //防误触提醒
             if (b)
-                Toast.makeText(StartPageActivity.this, "如果不是负责考勤的同学，请不要勾选该选项~", Toast.LENGTH_SHORT).show();
+                Toast.makeText(StartPageActivity.this,
+                        "Please check carefully~", Toast.LENGTH_SHORT).show();
 
             //记录选择情况
             editor = preferences.edit();

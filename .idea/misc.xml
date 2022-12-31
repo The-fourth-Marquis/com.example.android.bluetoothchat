@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Codes/Github/com.example.android.bluetoothchat/Application/src/main/res/layout/activity_start_page.xml" value="0.25" />
         <entry key="..\:/Group/Android/BluetoothChat/Application/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
         <entry key="..\:/Group/Android/BluetoothChat/Application/src/main/res/layout/activity_device_list.xml" value="0.15729166666666666" />
         <entry key="..\:/Group/Android/BluetoothChat/Application/src/main/res/layout/activity_main.xml" value="0.15729166666666666" />
